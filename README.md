@@ -8,4 +8,4 @@ Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 https://www.kaggle.com/code/arthurleest/nyc-taxi-2022-analysis
 
-![map](https://user-images.githubusercontent.com/56611771/236395873-d59f0d4e-bd58-4a48-8692-cba766c1149c.gif)
+![map](https://user-images.githubusercontent.com/56611771/236398980-a64255ab-8067-4850-8e9e-ca506737f989.gif)
