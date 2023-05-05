@@ -6,6 +6,6 @@ Apache Spark, Databricks, Jupyter Notebook, PySpark, Python, SQL
 
 Data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-https://www.kaggle.com/arthurleest/nyc-taxi-analysis-2022
+https://www.kaggle.com/code/arthurleest/nyc-taxi-2022-analysis
 
 ![NYCTaxiAnalysis_2022](https://user-images.githubusercontent.com/56611771/236338597-2be41ba1-3a23-43e5-856f-3567e2959191.jpg)
