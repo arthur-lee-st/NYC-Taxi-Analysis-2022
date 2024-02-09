@@ -1,6 +1,6 @@
 # NYC-Taxi-Analysis-2022
 
-This is my first personal project using Apache Spark. I've initially created the notebook analysis using DataBricks. Once that's completed, I ran it locally, followed by uploading it to Kaggle.
+This is my first personal project using Apache Spark.
 
 Third-party libraries used:
 1. Numpy - https://github.com/numpy/numpy
